@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Currency Converter"
+        android:id="@+id/currency"/>
+    <item android:title="Numerical Converter"
+        android:id="@+id/numeric"/>
+    <item android:title="@string/volume_converter"
+        android:id="@+id/volume"/>
+    <item
+        android:title=""
+        android:id="@+id/share"
+        android:icon="@drawable/share"
+        app:showAsAction="always"/>
+</menu>

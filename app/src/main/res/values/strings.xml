@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="divide">/</string>
+    <string name="remainder">%</string>
+    <string name="decrease"><![CDATA[<-]]></string>
+    <string name="disappear">c</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="x">x</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="sub">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="plus">+</string>
+    <string name="sqrt">√</string>
+    <string name="_0">0</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="divid">÷</string>
+    <string name="mul">×</string>
+    <string name="engineering_calculator">engineering calculator</string>
+    <string name="currency_converter">currency converter</string>
+    <string name="numerical_converter">Numerical converter</string>
+    <string name="volume_converter">Volume Converter</string>
+    <string name="x_y">x^y</string>
+</resources>
